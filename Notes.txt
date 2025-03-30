@@ -1,0 +1,8 @@
+What does the client need?
+1. The client needs the ability to roll dice
+2. The client needs the ability to seem information about the overall map
+3. The client needs the ability to see information about the current room
+4. The client needs the ability to see information about the current player
+5. The client needs the ability to see information about the current game
+6. The client needs the ability to see information about the current game state.
+7. The client needs the ability to see information about the current game rules
