@@ -14,6 +14,11 @@ What does the client need:
         7b. Health
         7c. Turn
         7d. Inventory
+    8. Roll dice for:
+        8a. Attack roles
+        8b. Damage roles
+        8c. Skill checks
+    9. Is player in turn based combat?
 
 
 Overall notes
