@@ -1,8 +1,24 @@
-What does the client need?
+What does the client need:
+    1. Create their character
+    2. Recieve information from server and parse that information
+    3. Send information to the server in a seralized way
+    4. Ask the server if it's their turn
+    5. Ask the server to display the current map/location
+    6. Ask the server for the map
+        6a. Overworld map
+        6b. Town map
+        6c. Building map
+        6d. Room map?
+    7. Ask the server for their player information. Can be stored locally and updated as necessary
+        7a. Location
+        7b. Health
+        7c. Turn
+        7d. Inventory
+
+
+Overall notes
 1. The client needs the ability to roll dice
-2. The client needs the ability to seem information about the overall map
+2. The client needs the ability to see information about the overall map
+3. The client needs the ability to see information about the current building
 3. The client needs the ability to see information about the current room
-4. The client needs the ability to see information about the current player
-5. The client needs the ability to see information about the current game
-6. The client needs the ability to see information about the current game state.
-7. The client needs the ability to see information about the current game rules
+4. The client needs the ability to see information about their character
